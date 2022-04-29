@@ -1,0 +1,16 @@
+{
+  "name": "send_help",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-plugin-manager": "^0.17.1"
+  }
+}
